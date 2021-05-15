@@ -64,7 +64,8 @@
       }
     ],
     "uniqCompNum": 29,
-    "versionPublish": "5.3.5"
+    "versionPublish": "5.3.5",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
