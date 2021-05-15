@@ -65,7 +65,16 @@
     ],
     "uniqCompNum": 29,
     "versionPublish": "5.3.5",
-    "publishChangesOnly": true
+    "publishChangesOnly": false,
+    "favicon": false,
+    "mbrsiteDomain": "m0uqfvf7qx",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
