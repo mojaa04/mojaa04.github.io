@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-15_2358",
+    "name": "Mojaa",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -66,8 +66,8 @@
     "uniqCompNum": 29,
     "versionPublish": "5.3.5",
     "publishChangesOnly": false,
-    "favicon": false,
-    "mbrsiteDomain": "m0uqfvf7qx",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-ko-1.png",
+    "mbrsiteDomain": "ttpwvmp7jm",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
